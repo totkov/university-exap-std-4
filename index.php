@@ -29,7 +29,7 @@
 </div>
 
 
-<div class="wrapper bgded overlay" id="01png">
+<div class="wrapper bgded overlay" id="png01">
   <div id="pageintro" class="hoc clear"> 
     <article>
       <p class="heading">Информационни технологии</p>
