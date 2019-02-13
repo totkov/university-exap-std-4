@@ -12,9 +12,25 @@ p{
 	display: none;
 }
 
+#comic {
+	font-family: Comic Sans MS;
+}
+
+#italic {
+	font-style: italic;
+}
+
 #01png {
 	background-image:url('images/demo/backgrounds/01.png');
 }
 #02png {
 	background-image:url('images/demo/backgrounds/02.png');
+}
+
+#ul {
+	background-color: silver;
+}
+
+#black-important {
+	color: black !important;
 }
