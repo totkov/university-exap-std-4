@@ -11,3 +11,10 @@ p{
 	text-align: justify;
 	display: none;
 }
+
+#01png {
+	background-image:url('images/demo/backgrounds/01.png');
+}
+#02png {
+	background-image:url('images/demo/backgrounds/02.png');
+}
