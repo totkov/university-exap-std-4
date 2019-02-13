@@ -5,6 +5,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <link href="styles/layout.css" rel="stylesheet" type="text/css" media="all">
+<link href="styles/style.css" rel="stylesheet" type="text/css" media="all">
 </head>
 <body id="top">
 <div class="wrapper row0">
@@ -32,8 +33,8 @@
   <div id="pageintro" class="hoc clear"> 
     <article>
       <p class="heading">Информационни технологии</p>
-      <h2 class="heading" style="color: orange;"><span class="block" style="color: lightblue;">Бъдещето е в </span> НАС !</h2>
-      <footer class="footer1"><a href="#" style="color: silver;">Прочети повече &raquo;</a></footer>
+      <h2 class="heading"><span class="block">Бъдещето е в </span> НАС !</h2>
+      <footer class="footer1"><a href="#">Прочети повече &raquo;</a></footer>
     </article>
   </div>
 </div>
@@ -46,7 +47,7 @@
         <div class="table-cell">
           <article><a href="#"><i class="fa fa-key"></i></a>
             <h6 class="heading">Информационни технологии</h6>
-            <p style="text-align: justify;">Понятието „информационни технологии“ в съвременния си смисъл е използвано за пръв път през 1958 
+            <p>Понятието „информационни технологии“ в съвременния си смисъл е използвано за пръв път през 1958 
 			година в статия в Харвард Бизнес Ревю, където авторите Харолд Лийвит и Томас Уислър отбелязват, 
 			че „новата технология все още няма определено наименование. Ние ще я наричаме информационна технология (ИТ)“.</p>
             <footer><a href="#">Прочети повече &raquo;</a></footer>
