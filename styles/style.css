@@ -1,0 +1,13 @@
+.heading{
+	color: orange;
+}
+.block{
+	color: lightblue;
+}
+.footer1{
+	color: silver;
+}
+p{
+	text-align: justify;
+	display: none;
+}
